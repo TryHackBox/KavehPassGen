@@ -24,10 +24,10 @@ First make sure the following are installed:
 
 ### Cloning of the tank
 You must first clon the tank:
-Git Clone https://github.com/off3nsivepwn/kavehpassgen.git
+`‍Git Clone https://github.com/off3nsivepwn/kavehpassgen.gi‍`
 
 Then go to its directory:
-cd kavehpassgen
+`cd kavehpassgen`
 
 ### Install the required packages
 Install the required packages using PIP:
