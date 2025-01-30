@@ -14,3 +14,32 @@ This tool generates various password combinations based on personal information 
 - If you want the passwords to be saved in a file, enter the file name; otherwise, the passwords will be displayed in the console.
 
 This tool is useful for security testing and evaluating password strength against dictionary and brute-force attacks.
+
+**Follow the steps below to run the Kavehpassgen tool from the GitHub repository:**
+
+### Prerequisites
+First make sure the following are installed:
+- **Python** 3.x: This tool is written with Python, so you need Python.
+- **PIP**: To install the required packages.
+
+### Cloning of the tank
+You must first clon the tank:
+Git Clone https://github.com/off3nsivepwn/kavehpassgen.git
+
+Then go to its directory:
+cd kavehpassgen
+
+### Install the required packages
+Install the required packages using PIP:
+`Pip Install -r Requirements.txt`
+
+### Implementation of the tool
+Now you can run the tool:
+`Python kavehpassgen.py`
+
+### Use
+After running the program, you will see different instructions or parameters for the production of passwords. You can adjust the parameters as you need.
+
+### extra tips
+- Make sure the Internet is connected, as you may need internet while installing packages.
+- If there is an error during running or installing, check the error and make sure the correct Python and PIP versions are installed.
